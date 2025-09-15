@@ -6,3 +6,5 @@ Most of these projects were completed with a fellow student Uzair Nadeem that ha
 Detailed insights are included within each relevant file.
 
 The xlsx file is what was used for the snowflake project.
+
+These projects were a part of the Data warehousing course delivered by Sir Tariq Mehmood, a lecturer at IBA Karachi.
